@@ -329,30 +329,4 @@ name: autism-youtube-ghost
 
 </div>
 
-```{raw} html
-
-
-<div class="float-right">
-
-<!-- .ipynb codeblock-->
-
-<div class="float-right" style="float:none;width:100%;margin-left:0;border:none;padding:0;background:none;">
-    <iframe width="100%" height="250" src="https://www.youtube.com/embed/sZKzkBzXptY?start=3180" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<a class="image-bubble layered-icon" href="figures/ecosystem-products.png" target="_blank" title="Click to magnify">
-    <div class="large-icon"></div>
-    <div class="small-icon"></div>
-</a>
-
-```{figure} https://www.ledr.com/colours/white.jpg
----
-width: 1
-height: 1
-name: figures/cgbest
----
-**_So So Def: Reason vs. Resonance?_**. Think of it like this: a sequence—**nonself → self → recognize → identity → flourish**. JD as a teenager, clocking someone like his homegirls *in* Xscape. Not polished, not GQ’d, but familiar. He *recognized* them. And maybe that’s it. Maybe it’s not about heroic decisions at grand forks in the road. Maybe it’s simpler, subtler: maybe we just *node*—not choose, but click—when we recognize self. Not a decision, but a resonance.
-```
-
-</div>
-</div>
 
